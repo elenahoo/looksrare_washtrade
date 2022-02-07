@@ -12,6 +12,11 @@
 </a>
 	<span>┃</span>
   <a href="" style="margin-top: 12px;">
+  <img  align="center" alt="Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+	  <code>E.Hu#6754</code>
+</a>
+	<span>┃</span>
+  <a href="" style="margin-top: 12px;">
   <img  align="center" alt="elenahoo | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 	  <code>@hoolupoodalz</code>
 </a>
