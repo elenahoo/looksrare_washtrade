@@ -1,5 +1,4 @@
-# looksrare Wash Trade
-LooksRare wash trade simulation
+# LooksRare wash trade simulation
 
 This code shows how the LooksRare wash trade simulation is done as described in my article [here](https://elenahoo.medium.com/looksrare-washing-trading-reward-simulation-fea6272bf89a) by changing one of the three moving components:
 - u: Individual trader’s volume in $ETH
