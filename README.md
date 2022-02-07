@@ -1,4 +1,21 @@
 # LooksRare wash trade simulation
+<div align="center">
+<a href="https://mail.google.com/mail/u/?authuser=elenahoo@gmail.com">
+  <img align="center" alt="elenahoo | Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
+	<code>ahmadzee26@gmail.com</code>
+</a>
+	<span> ┃ </span>
+	
+<a href="https://t.me/elenahoo">
+  <img align="center" alt="elenahoo | Telegram" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
+	<code>@elenahoo</code>
+</a>
+	<span>┃</span>
+  <a href="" style="margin-top: 12px;">
+  <img  align="center" alt="elenahoo | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+	  <code>@hoolupoodalz</code>
+</a>
+<br />
 
 This code shows how the LooksRare wash trade simulation is done as described in my article [here](https://elenahoo.medium.com/looksrare-washing-trading-reward-simulation-fea6272bf89a) by changing one of the three moving components:
 - u: Individual trader’s volume in $ETH
